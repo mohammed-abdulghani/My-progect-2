@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(125, 218, 255);
+}
+#moh{
+    background-color: #ddfeff;
+    width: calc(80% / 5); 
+    height: 300px;
+    padding: 10px 10px 10px 10px;
+    margin: 7%;
+    color: rgb(0, 0, 0);
+   border-radius: 20px;
+   float: left;
+}
+#Ipad{
+    background-color: #ddfeff;
+    width: calc(80% / 5); 
+    height: 250px;
+    padding: 10px 10px 10px 10px;
+    margin: 7%;
+    color: rgb(0, 0, 0);
+   border-radius: 20px;
+   float: left;
+}
+#tv{
+    background-color: #ddfeff;
+    width: calc(80% / 5); 
+    height: 350px;
+    padding: 10px 10px 10px 10px;
+    margin: 7%;
+    color: rgb(0, 0, 0);
+   border-radius: 20px;
+   float: left;
+}
+#hmok{
+    width: 120px;
+   height: 120px;
+   border-radius: 20px;
+
+}
+#rowad{
+    
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+   
+}
+#list{
+    width: 100%;
+    float: right;
+    background-color:#ddfeff;
+    color: rgb(0, 0, 0);
+}
+ul li{
+    display: inline;
+    padding: 40px 40px 40px 40px ;
+}
+#a{
+    text-decoration-line: none;
+    color: black; 
+}

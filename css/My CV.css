@@ -1,0 +1,14 @@
+#list{
+    width: 100%;
+float:none;
+    background-color:  rgb(217, 235, 222);
+    padding: 2px 2px 2px 2px;
+}
+ul li{
+    display: inline;
+    padding: 40px 40px 40px 40px ;
+}
+#a{
+    text-decoration-line: none;
+    color: rgb(99, 80, 53); 
+}

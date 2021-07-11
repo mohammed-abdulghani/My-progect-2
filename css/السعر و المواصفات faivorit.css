@@ -1,0 +1,41 @@
+#Unite{
+    background-color: rgb(255 214 187);
+    color: rgb(46, 46, 46);
+    float: left;
+    width: 250px; height: 350px;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
+#pro{
+    background-color: rgb(255 214 187);
+    color: rgb(46, 46, 46);
+    float: left;
+    width: 250px; height: 350px;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 50px 104px 50px 50px;
+}
+#power{
+    background-color: rgb(255 214 187);
+    color: rgb(46, 46, 46);
+    float: left;
+    width: 250px; height: 350px;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 50px 100px 50px 500px;
+}
+#out{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+h1,h2{
+width: 80%;
+padding-right: 150px;
+
+float: right;
+}
+a{
+    float: left;
+}

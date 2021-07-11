@@ -1,0 +1,22 @@
+#Unite{
+    background-color:rgb(83 104 175);
+    color: floralwhite;
+    float: left;
+    width: 250px; height: 350px;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
+#out{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+h1{
+width: 80%;
+padding-right: 150px;
+float: right;
+}
+a{
+    float: left;
+}

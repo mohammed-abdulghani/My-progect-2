@@ -1,0 +1,74 @@
+body{
+
+   margin-top: 20px;
+}
+#moh{
+    background-color: rgb(73, 72, 72);
+    width: calc(80% / 5); 
+    height: 300px;
+    padding: 10px 10px 10px 10px;
+    margin: 7%;
+    color: rgb(255, 255, 255);
+   border-radius: 20px;
+   float: left;
+}
+#Ipad{
+    background-color: #797373;
+    width: calc(65% / 3); 
+    height: 410px;
+    padding: 10px 10px 10px 10px;
+    margin: 5%;
+    color: rgb(255, 255, 255);
+   border-radius: 20px;
+   float: left;
+}
+#out{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+#tv{
+    background-color: #797373;
+    width: calc(80% / 5); 
+    height: 350px;
+    padding: 10px 10px 10px 10px;
+    margin: 7%;
+    color: rgb(255, 255, 255);
+   border-radius: 20px;
+   float: left;
+}
+#hmok{
+    width: 120px;
+   height: 120px;
+   border-radius: 20px;
+
+}
+#rowad{
+    
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+   
+}
+#list{
+    width: 100%;
+    float: right;
+    background-color: rgb(239, 246, 255);
+    color: rgb(36, 35, 33);
+}
+ul li{
+    display: inline;
+    padding: 40px 40px 40px 40px ;
+}
+#a{
+    text-decoration-line: none;
+    color: black; 
+}
+h1,h2{
+    width: 80%;
+    padding-right: 150px;
+    
+    float: right;
+    }
+    a{
+        float: left;
+    }

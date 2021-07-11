@@ -1,0 +1,31 @@
+body{
+    background-image: url('../img/===-.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+#about{
+    background-color: rgb(83, 101, 255);
+width: 850px;
+height: 600px;
+padding: 20px 20px 20px 20px ;
+margin: 50px 40px 50px 40px ;
+}
+p{
+    font-size: 40px;
+    color: #b4ffff;
+}
+#list{
+        width: 100%;
+float:none;
+        background-color: rgb(239, 246, 255);
+        padding: 2px 2px 2px 2px;
+    }
+    ul li{
+        display: inline;
+        padding: 40px 40px 40px 40px ;
+    }
+    #a{
+        text-decoration-line: none;
+        color: black; 
+    }

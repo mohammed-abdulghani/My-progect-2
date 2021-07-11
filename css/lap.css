@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(110, 59, 0);
+}
+#list{
+    width: 100%;
+    float: right;
+    background-color: #ffc27d;
+    color:  rgb(110, 59, 0);
+}
+ul li{
+    display: inline;
+    padding: 40px 40px 40px 40px ;
+}
+#a{
+    text-decoration-line: none;
+    color:  rgb(110, 59, 0); 
+}
+#moh{
+    background-color: #ffc27d;
+    width: calc(80% / 5); 
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    margin: 7%;
+    color: rgb(110, 59, 0);
+   border-radius: 20px;
+   float: left;
+}
+#hmok{
+    width: 120px;
+   height: 120px;
+   border-radius: 20px;
+
+}
+#rowad{
+    
+    color: rgb(110, 59, 0);
+    text-decoration-line: none;
+   }

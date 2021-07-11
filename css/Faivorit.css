@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255 214 187);
+}
+#moh{
+    background-color:#9e805e;
+    width: calc(80% / 5); 
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    margin: 48px 48px 48px 48px ;
+    color: rgb(255, 255, 255);
+   border-radius: 20px;
+   float: left;
+}
+#hmok{
+    width: 120px;
+   height: 120px;
+   border-radius: 20px;
+
+}
+#rowad{
+    
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+   
+}
+#list{
+    width: 100%;
+    float: right;
+    background-color:#9e805e;
+    color: rgb(255, 255, 255);
+}
+ul li{
+    display: inline;
+    padding: 40px 40px 40px 40px ;
+}
+#a{
+    text-decoration-line: none;
+    color: rgb(255, 255, 255); 
+}
+#do{
+    color: #9e805e;
+}

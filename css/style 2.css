@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(41, 41, 59);
+}
+#moh{
+    background-color: #d4daff;
+    width: calc(85% / 5); 
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    margin: 3%;
+    color: rgb(0, 0, 0);
+   border-radius: 20px;
+   float: left;
+}
+#hmok{
+    width: 120px;
+   height: 120px;
+   border-radius: 20px;
+
+}
+#rowad{
+    
+    color: rgb(0, 0, 0);
+    text-decoration-line: none;
+   
+}
+#list{
+    width: 100%;
+    float: right;
+    background-color: #d8ddfd;
+    color: rgb(0, 0, 0);
+}
+ul li{
+    display: inline;
+    padding: 40px 40px 40px 40px ;
+}
+#a{
+    text-decoration-line: none;
+    color: black; 
+}
